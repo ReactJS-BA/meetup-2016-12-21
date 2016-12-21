@@ -2,6 +2,10 @@
 
 Speakers: [@vctrfrnndz](https://twitter.com/vctrfrnndz) y [@arielger_](https://twitter.com/arielger_)
 
+Slides: http://slides.com/arielgerstein/construyendo-una-styleguide-con-react
+Auth0 Styleguide: http://styleguide.auth0.com/ - github.com/auth0/styleguide
+Auth0 React Styleguide: https://auth0-styleguide-pr-102.herokuapp.com - https://github.com/auth0/styleguide/tree/experimental
+
 La charla se va a dividir en tres partes:
 
 1. ¿Cuáles son las ventajas de construir una styleguide?
